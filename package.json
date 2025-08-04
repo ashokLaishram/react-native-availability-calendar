@@ -150,5 +150,9 @@
     "languages": "js",
     "type": "library",
     "version": "0.52.0"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "react-native-paper": "^5.14.5"
   }
 }
